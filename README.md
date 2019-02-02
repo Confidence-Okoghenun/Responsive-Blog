@@ -1,6 +1,6 @@
 # Responsive-Blog
 
-A simple responsive blog page to teach the basic **principles of responsive design**
+A simple responsive blog page to teach the basic **principles of responsive design**. You can view a live demo [here](https://confidence-okoghenun.github.io/Responsive-Blog/)
 
 ## Responsive techniques learned
 
